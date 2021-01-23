@@ -1,0 +1,1 @@
+This is a command line interface(CLI) application developed using node JS which encodes and decodes the URL. You can use the application by clicking on the link: https://repl.it/@AshhadImam/url-encoder-decoder?lite=1&outputonly=1 
